@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Xunit;
 
+// test comment
 namespace Microsoft.Extensions.Options.Tests
 {
     public class OptionsTest
